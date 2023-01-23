@@ -6,6 +6,7 @@ To develop a Django application to store and retrieve data from a database using
 ## Entity Relationship Diagram
 
 
+![orm](https://user-images.githubusercontent.com/120244201/214110001-e347edd3-c4dc-4499-bf4e-1e5614aa8eaf.jpg)
 
 ## DESIGN STEPS
 
@@ -48,8 +49,14 @@ admin.site.register(Student,StudentAdmin)
 
 
 ## OUTPUT
+serverside output
+
+![2023-01-23 (5)](https://user-images.githubusercontent.com/120244201/214110309-ff45bb95-1022-4769-a88c-c1f764e8f070.jpg)
+
+clientsideoutput
 
 
+![2023-01-23 (4)](https://user-images.githubusercontent.com/120244201/214110414-dec08343-9ecb-4b9e-8918-f1427dafab51.jpg)
 
 
 ## RESULT
